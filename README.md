@@ -1,14 +1,15 @@
-NOTE TAKING APP
-
-What's inside?
-
-The note taking app uses python flask modules  such as Blueprint, render_template, request, flash, redirect, url_for etc.
 
 
 
 
 
-# Flask Web App Tutorial
+
+
+
+# Flask  Note taking Web App
+## The note taking app uses python flask modules  such as Blueprint, render_template, request, flash, redirect, url_for etc.
+
+
 
 ## Setup & Installtion
 
