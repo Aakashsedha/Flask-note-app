@@ -29,7 +29,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-#REQUIREMENTS
+# REQUIREMENTS
 
 flask
 Flask-SQLAlchemy
